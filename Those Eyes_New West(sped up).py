@@ -18,7 +18,7 @@ def print_lyrics():
         "And the small things you do"
     ]
 
-    delays = [0.9, 0.5, 0.5, 0.7, 0.6, 0.5, 0.6, 0.6]
+    delays = [0.9, 0.5, 0.5, 0.7, 0.7, 0.6, 0.8, 0.8]
 
     print("\n🎧 Now Playing: New West - Those Eyes\n")
     time.sleep(1.5)
