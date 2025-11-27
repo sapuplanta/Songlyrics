@@ -27,5 +27,5 @@ def print_lyrics():
         time.sleep(delay)
 
 if __name__ == "__main__":
-    print_lyrics()
-    
+    print_lyrics()8un .
+
