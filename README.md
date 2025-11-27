@@ -8,8 +8,8 @@ This repository houses the code and data necessary to generate and display song 
 
 🎤 Features
 
-- Synchronized Lyrics Display: (If this is the project's goal, emphasize it here) The ultimate goal is to process the lyrics so they can be displayed in sync with the song's audio playback.
-- Easy Song Addition: Simple structure for adding new songs (e.g., creating a new Python file for each song's lyrics/timing data).
+- Synchronized Lyrics Display: The ultimate goal is to process the lyrics so they can be displayed in sync with the song's audio playback.
+- Easy Song Addition: Simple structure for adding new songs.
 
 🛠️ How It Works 
 
