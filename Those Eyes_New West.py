@@ -21,3 +21,7 @@ def print_lyrics():
     delays = [0.9, 0.4, 0.4, 0.6, 0.5, 0.4, 0.7, 0.5]
 
     print("\n🎧 Now Playing: New West - Those Eyes\n")
+    time.sleep(1.5)
+    for line, delay in zip(lyrics, delays):
+        type_lyric(line)
+        time.sleep(delay)
