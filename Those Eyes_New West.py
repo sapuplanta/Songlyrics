@@ -25,3 +25,7 @@ def print_lyrics():
     for line, delay in zip(lyrics, delays):
         type_lyric(line)
         time.sleep(delay)
+
+if __name__ == "__main__":
+    print_lyrics()
+    
