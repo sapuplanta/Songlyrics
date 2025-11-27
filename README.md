@@ -12,4 +12,5 @@ This repository houses the code and data necessary to generate and display song 
 - Easy Song Addition: Simple structure for adding new songs (e.g., creating a new Python file for each song's lyrics/timing data).
 
 🛠️ How It Works 
+
 This repository serves as the centralized data source for all synchronized song lyrics. The workflow focuses on accurately creating and maintaining the data files that will be consumed by your external lyric display application.
